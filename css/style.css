@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: lime;
+  font-family: monospace;
+  font-size: 16px;
+  padding: 16px;
+}
+
+#saisie {
+  width: 100%;
+  background-color: black;
+  color: lime;
+  font-family: monospace;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
